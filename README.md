@@ -84,7 +84,7 @@
 <br>
 
 ## 🤝 Контакт
-[![Gmail](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg)](gmail.com:wladnero@gmail.com)
+[![Gmail](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg)](mailto:wladnero@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/@Jeriiho)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
